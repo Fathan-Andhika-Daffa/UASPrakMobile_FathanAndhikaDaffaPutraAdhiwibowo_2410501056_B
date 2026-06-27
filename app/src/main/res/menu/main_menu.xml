@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="Cari"
+        app:showAsAction="always"
+        app:iconTint="?attr/colorOnPrimary" />
+    <item
+        android:id="@+id/action_view_favorit"
+        android:icon="@drawable/ic_favorit"
+        android:title="Favorit"
+        app:showAsAction="always"
+        app:iconTint="?attr/colorOnPrimary" />
+</menu>

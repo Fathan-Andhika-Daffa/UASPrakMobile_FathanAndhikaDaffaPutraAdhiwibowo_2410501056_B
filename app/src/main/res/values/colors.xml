@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- White Mode Palette -->
+    <color name="white_1">#9FA1FF</color>
+    <color name="white_2">#B5BAFF</color>
+    <color name="white_3">#AEE2FF</color>
+    <color name="white_4">#D9F9DF</color>
+
+    <!-- Dark Mode Palette -->
+    <color name="dark_1">#574964</color>
+    <color name="dark_2">#9F8383</color>
+    <color name="dark_3">#C8AAAA</color>
+    <color name="dark_4">#FFDAB3</color>
+    <color name="abu_tua">#333333</color>
+</resources>

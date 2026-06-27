@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UASPrakMobile_FathanAndhikaDaffaPutraAdhiwibowo_2410501056_B" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/white_1</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/white_2</item>
+        <item name="colorTertiary">@color/white_3</item>
+        <item name="android:windowBackground">@color/white_4</item>
+        <item name="colorSurface">@color/white_4</item>
+    </style>
+
+    <style name="Theme.UASPrakMobile_FathanAndhikaDaffaPutraAdhiwibowo_2410501056_B" parent="Base.Theme.UASPrakMobile_FathanAndhikaDaffaPutraAdhiwibowo_2410501056_B" />
+</resources>
