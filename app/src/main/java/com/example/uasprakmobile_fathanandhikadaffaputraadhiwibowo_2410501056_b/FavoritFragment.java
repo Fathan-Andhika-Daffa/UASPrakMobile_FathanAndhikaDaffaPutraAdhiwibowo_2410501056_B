@@ -53,7 +53,7 @@ public class FavoritFragment extends Fragment {
                 activity.getSupportActionBar().setDisplayHomeAsUpEnabled(true);
                 TextView toolbarTitle = activity.findViewById(R.id.tv_toolbar_title);
                 if (toolbarTitle != null) {
-                    toolbarTitle.setText("Favorite");
+                    toolbarTitle.setText(R.string.nav_favorit);
                     ConstraintLayout.LayoutParams params = (ConstraintLayout.LayoutParams) toolbarTitle.getLayoutParams();
                     params.horizontalBias = 0.5f;
                     params.setMarginStart(0);

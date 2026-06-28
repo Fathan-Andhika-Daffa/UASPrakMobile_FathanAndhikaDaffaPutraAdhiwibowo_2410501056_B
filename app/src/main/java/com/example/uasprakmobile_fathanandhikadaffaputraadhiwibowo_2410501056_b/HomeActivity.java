@@ -107,7 +107,7 @@ public class HomeActivity extends AppCompatActivity {
             getSupportActionBar().setDisplayHomeAsUpEnabled(false);
         }
         if (tvToolbarTitle != null) {
-            tvToolbarTitle.setText("EndemikDB");
+            tvToolbarTitle.setText(R.string.app_name);
             ConstraintLayout.LayoutParams params = (ConstraintLayout.LayoutParams) tvToolbarTitle.getLayoutParams();
             params.horizontalBias = 0.0f;
             params.setMarginStart((int) (16 * getResources().getDisplayMetrics().density));
@@ -156,7 +156,7 @@ public class HomeActivity extends AppCompatActivity {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
         if (tvToolbarTitle != null) {
-            tvToolbarTitle.setText("Pencarian");
+            tvToolbarTitle.setText(R.string.toolbar_search);
             ConstraintLayout.LayoutParams params = (ConstraintLayout.LayoutParams) tvToolbarTitle.getLayoutParams();
             params.horizontalBias = 0.5f;
             params.setMarginStart(0);

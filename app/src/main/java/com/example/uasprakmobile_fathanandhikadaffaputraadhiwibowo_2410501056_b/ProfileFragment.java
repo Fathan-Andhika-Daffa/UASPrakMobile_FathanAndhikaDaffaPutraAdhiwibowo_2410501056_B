@@ -36,7 +36,7 @@ public class ProfileFragment extends Fragment {
                 activity.getSupportActionBar().setDisplayHomeAsUpEnabled(false);
                 TextView toolbarTitle = activity.findViewById(R.id.tv_toolbar_title);
                 if (toolbarTitle != null) {
-                    toolbarTitle.setText("Profile");
+                    toolbarTitle.setText(R.string.nav_profile);
                     ConstraintLayout.LayoutParams params = (ConstraintLayout.LayoutParams) toolbarTitle.getLayoutParams();
                     params.horizontalBias = 0.5f;
                     params.setMarginStart(0);

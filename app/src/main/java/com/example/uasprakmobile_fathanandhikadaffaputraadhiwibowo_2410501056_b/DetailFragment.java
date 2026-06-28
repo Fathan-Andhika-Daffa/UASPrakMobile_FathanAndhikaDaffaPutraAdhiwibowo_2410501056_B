@@ -77,7 +77,7 @@ public class DetailFragment extends Fragment {
         if (endemik != null) {
             tvNama.setText(endemik.getNama());
             tvNamaLatin.setText(endemik.getNamaLatin());
-            tvAsal.setText("Asal: " + endemik.getAsal());
+            tvAsal.setText(getString(R.string.origin_label, endemik.getAsal()));
             tvDeskripsi.setText(endemik.getDeskripsi());
 
             Glide.with(this)

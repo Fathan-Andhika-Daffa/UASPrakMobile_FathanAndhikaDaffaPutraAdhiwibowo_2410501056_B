@@ -4,13 +4,13 @@
     <item
         android:id="@+id/action_search"
         android:icon="@drawable/ic_search"
-        android:title="Cari"
+        android:title="@string/toolbar_search"
         app:showAsAction="always"
         app:iconTint="?attr/colorOnPrimary" />
     <item
         android:id="@+id/action_view_favorit"
         android:icon="@drawable/ic_favorit"
-        android:title="Favorit"
+        android:title="@string/nav_favorit"
         app:showAsAction="always"
         app:iconTint="?attr/colorOnPrimary" />
 </menu>

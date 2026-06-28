@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">UAS Prak Mobile_Fathan Andhika Daffa Putra Adhiwibowo_2410501056_B</string>
+    <string name="app_name">EndemikDB</string>
+    <string name="nav_hewan">Hewan</string>
+    <string name="nav_tumbuhan">Tumbuhan</string>
+    <string name="nav_favorit">Favorit</string>
+    <string name="nav_profile">Profil</string>
+    <string name="toolbar_search">Pencarian</string>
+    <string name="search_hint">temukan</string>
+    <string name="empty_favorite">Belum ada favorit</string>
+    <string name="btn_continue">Data tersimpan, lanjutkan</string>
+    <string name="origin_label">Asal: %s</string>
+    <string name="about_app">Aplikasi database hewan dan tumbuhan endemik Indonesia.</string>
 </resources>

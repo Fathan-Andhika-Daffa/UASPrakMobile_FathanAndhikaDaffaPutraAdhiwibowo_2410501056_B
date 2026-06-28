@@ -15,4 +15,5 @@
     <color name="dark_3">#C8AAAA</color>
     <color name="dark_4">#FFDAB3</color>
     <color name="abu_tua">#333333</color>
+    <color name="splash_logo_color">#333333</color>
 </resources>

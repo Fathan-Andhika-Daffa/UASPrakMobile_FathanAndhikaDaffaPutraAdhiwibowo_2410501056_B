@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EndemicDB</string>
+    <string name="nav_hewan">Animals</string>
+    <string name="nav_tumbuhan">Plants</string>
+    <string name="nav_favorit">Favorites</string>
+    <string name="nav_profile">Profile</string>
+    <string name="toolbar_search">Search</string>
+    <string name="search_hint">find</string>
+    <string name="empty_favorite">No favorites yet</string>
+    <string name="btn_continue">Data saved, continue</string>
+    <string name="origin_label">Origin: %s</string>
+    <string name="about_app">Indonesian endemic animals and plants database application.</string>
+</resources>
